@@ -138,12 +138,16 @@ H_p=\dfrac{-\displaystyle\sum_{i=1}^{D!} p(\pi_i) \log_2 p(\pi_i)}{\log_2 D!}
 \\
 
 \item 相互情報量\\%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-　2つの情報源$X,Y$からそれぞれから情報$x,y$を得られる確率を$P_X(x),P_Y(y)$とし，同時に得られる確率を$P_{X,Y}(x,y)$とすると
+　2つの情報源の依存度を表した値である．一方の情報をもっているとき，他方の情報を得たらどの程度の不確かさ(情報)2つの情報源が減少するのかを示している．$X,Y$からそれぞれから情報$x,y$を得られる確率を$P_X(x),P_Y(y)$とし，同時に得られる確率を$P_{X,Y}(x,y)$とすると，相互情報量の式は，
+\begin{equation}
+H_p=\displaystyle\sum_{x\in X}\displaystyle\sum_{y\in Y} P_{X,Y}(x,y) \log_2 \dfrac{P_{X,Y}(x,y)}{P_X(x)P_Y(y)}
+\end{equation}
+となる \cite{mutual} ．
+　
 \\
 
-
 \item 複雑ネットワーク\\%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-私は
+ノード(点)間をリンク(線)で結んで構成されているものをネットワークという．その中で「スケールフリー性」，「スモールワールド性」などの特徴をもつものを複雑ネットワークという．
 \\
 
 \end{itemize}
@@ -162,15 +166,44 @@ H_p=\dfrac{-\displaystyle\sum_{i=1}^{D!} p(\pi_i) \log_2 p(\pi_i)}{\log_2 D!}
 
 
 \section{\normalsizeホワイトガウスノイズと順列エントロピーに関するMATLABファイル(B4kadai\_2020.m)を実行し，図を出力し考察を加える.}
-まず出力された結果を下記に示す．
+まず出力された結果を下記に示す．このときのホワイトガウスノイズの生成数は$10000$個で次元数は$5$，遅れ時間は$1$である．
 
 \begin{figure}[H]%[h]は記述したところ。[t]はそのページの上端。[t]はそのページの下端、[p]はページいっぱい
 \begin{center}
 \includegraphics[width=.4\textwidth]{kadai3_rusult.jpg}
 \end{center}
-\caption{課題3の出力結果}%図名
+\caption{課題3の出力結果(生成数は$10000$個で次元数は$5$，遅れ時間は$1$)}%図名
 \label{fig:kadai3}
 \end{figure}
+
+この結果からホワイトガウスノイズのランクオーダーパターンにはバラつきがあることがわかる．しかし，ホワイトガウスノイズは周波数帯域が均一のため理論的には，ランクオーダーパターンも均一になると考えられる．今回のシミュレーションでは，次元数$5$($5!=120$個のパターン)に対して，ノイズの生成数が$10000$となっているので平坦に見えるにはデータ数が少ない．実際に$p(\pi_i)$の平均値は約$0.083(=1/120)$となっており，各ランクオーダーパターンの相対度数のヒストグラムを制作すると約$0.083(=1/120)$を中心にガウス分布に近いものとなっている．ノイズの生成を増やせば，各ランクオーダーパターンの相対度数は均一に近づいていくと考えられる．下記にノイズの生成数が$100000$とノイズの生成数が$1000000$に増やしたときの出力結果を示す．
+
+
+\begin{figure}[H]%[h]は記述したところ。[t]はそのページの上端。[t]はそのページの下端、[p]はページいっぱい
+\begin{center}
+\includegraphics[width=.4\textwidth]{kadai3_result2.jpg}
+\includegraphics[width=.4\textwidth]{kadai3_result3.jpg}
+\end{center}
+\caption{課題3の出力結果(左が生成数は$100000$，右が生成数は$1000000$)}%図名
+\label{fig:kadai3_2}
+\end{figure}
+
+この結果からデータ数を増やすことでバラつきが小さくなることがわかった．また，ノイズの生成数が$100000$のときのヒストグラムも下記に示す．
+
+\begin{figure}[H]%[h]は記述したところ。[t]はそのページの上端。[t]はそのページの下端、[p]はページいっぱい
+\begin{center}
+\includegraphics[width=.4\textwidth]{kadai3_histo.jpg}
+\end{center}
+\caption{課題3のヒストグラム(生成数は$100000$)}%図名
+\label{fig:kadai3_3}
+\end{figure}
+
+%チェビシェフの不等式の置き換えの大数の弱法則から，
+%\begin{equation}
+%P(|\overline{X}_n-\mu|\ge \epsilon) \le \dfrac{\sigma^2}{n \epsilon^2}
+%\end{equation}
+%となる．ここでの$\overline{X}_n$はサンプルデータ$n$までの平均値(標本)，$\mu$は理論的に考えられる平均値，$\epsilon$は許容誤差の大きさ，$\sigma$は標本データの分散である．
+
 
 
 
@@ -213,8 +246,10 @@ H_p=\dfrac{-\displaystyle\sum_{i=1}^{D!} p(\pi_i) \log_2 p(\pi_i)}{\log_2 D!}
 ホワイトガウスノイズサンプルの生成-MATLAD wgn，\url{https://jp.mathworks.com/help/comm/ref/wgn.html}
 \bibitem{logi}
 ロジスティック写像の時系列 - 工学院大学，\url{https://brain.cc.kogakuin.ac.jp/~kanamaru/Chaos/Logits/}
-\bibitem{mutural}
-情報量とエントロピー - 導出と性質,\url{https://whyitsso.net/math/statistics/information_entropy.html}
+\bibitem{mutual}
+相互情報量の意味とエントロピーとの関係 | 高校数学の美しい物語,\url{https://mathtrain.jp/mutualinfo}
+\bibitem{net}
+複雑ネットワーク：統計物理学の視点，\url{http://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/pdf/03/1/9999-031210.pdf}
 \end{thebibliography}
 
 %\newpage
