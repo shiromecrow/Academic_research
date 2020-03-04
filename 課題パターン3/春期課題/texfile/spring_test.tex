@@ -52,8 +52,8 @@
 
 
 \begin{itemize}
-\item Lorenz 方程式\\
-カオス的なふるまいを示す非線形微分方程式の1つで
+\item Lorenz 方程式\\%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+　カオス的なふるまいを示す非線形微分方程式の1つで
 \begin{equation}
 \frac{dx}{dt}=-px+py
 \end{equation}
@@ -74,10 +74,10 @@
 \label{fig:lorenz}
 \end{figure}
 
-図 \ref{fig:lorenz}は初期値の1つを0.1変化させたときの解の変化である．
+図 \ref{fig:lorenz}は初期値の1つを0.1変化させたときの解の変化である．\\
 
-\item Rossler 方程式\\
-カオス的なふるまいを示す非線形微分方程式の1つで
+\item Rossler 方程式\\%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+　カオス的なふるまいを示す非線形微分方程式の1つで
 \begin{equation}
 \frac{dx}{dt}=-y-z
 \end{equation}
@@ -97,18 +97,18 @@
 \label{fig:rossler}
 \end{figure}
 
-図 \ref{fig:rossler}は初期値の1つを0.1変化させたときの解の変化である．
+図 \ref{fig:rossler}は初期値の1つを0.1変化させたときの解の変化である．\\
 
 
-\item ホワイトガウスノイズ\\
-自然界などのランダム過程の効果をモデル化したもの．ホワイトは周波数帯域が均一であることを示している．光の白色から由来している．ガウスは自然界のものはガウス分布に従うという仮定をもとにノイズもガウス分布となっていることを示している．波形の周波数は均一にすべての周波数で，波形の振幅はガウス分布に従う振幅となっていると仮定したノイズ．
+\item ホワイトガウスノイズ\\%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+　自然界などのランダム過程の効果をモデル化したもの．ホワイトは周波数帯域が均一であることを示している．光の白色から由来している．ガウスは自然界のものはガウス分布に従うという仮定をもとにノイズもガウス分布となっていることを示している．波形の周波数は均一にすべての周波数で，波形の振幅はガウス分布に従う振幅となっていると仮定したノイズ．モデル化されたノイズのためホワイトガウスノイズサンプルの生成を行う関数が作られている \cite{wgn} ．\\
 
-\item Logistic 写像\\
-Logistic方程式を離散化することで得られる漸化式である．
+\item Logistic 写像\\%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+　Logistic方程式を離散化することで得られる漸化式である．
 \begin{equation}
 x_{n+1}=ax_{n}(1-x_{n})
 \end{equation}
-定数$a$によって，値の変化が大きく変わる．$a$が十分に小さいときは0に収束し，値が大きくなるにつれて，収束値が大きくなり，周期的な振動を示し，最終的にカオス的な挙動を示す．$a$ごとの$x$の値の変化を下記に示す．
+で表現される \cite{logi} ．定数$a$によって，値の変化が大きく変わる．$a$が十分に小さいときは0に収束し，値が大きくなるにつれて，収束値が大きくなり，周期的な振動を示し，最終的にカオス的な挙動を示す．$a$ごとの$x$の値の変化を下記に示す．
 
 \begin{figure}[H]%[h]は記述したところ。[t]はそのページの上端。[t]はそのページの下端、[p]はページいっぱい
 \begin{center}
@@ -119,12 +119,32 @@ x_{n+1}=ax_{n}(1-x_{n})
 \end{figure}
 
 
-\item 順列エントロピー\\
+\item 順列エントロピー\\%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+　時系列の乱雑さを定量評価する指標であり，時系列の値ではなく，大小を比較する手法である．長さが$L$の時系列に対して遅れ時間$\tau$の間隔があるデータ$D$個を$D$次元の遅れ時間座標${\bf X}_{\sl j}{\sl=\{ x_j,x_{j+\tau},\cdots ,x_{j+(D-1)\tau} \}} $とし，この座標を考える．ただし，$j=1,2,\cdots,L-(D-1)\tau$とする．この$D$次元の座標のそれぞれの値の大小をパターン化すると$D!$個のランクオーダーパターンに分類される．あるランクオーダーパターン$\pi_i$の相対度数$p(\pi_i)$は，
+\begin{equation}
+p(\pi_i)=\dfrac{\displaystyle\sum^N_{j=1}\chi_i(X_j)}{L-(D-1)\tau}
+\end{equation}
+$\chi_i(X_j)$は指示関数であり，
+\begin{eqnarray}
+\chi_i(X_j)=\left\{ \begin{array}{ll}
+1 &  (\pi_j=\pi_i) \\
+0 & (\pi_j\neq\pi_i) \\
+\end{array} \right.
+\end{eqnarray}
+となる．そしてこの相対度数の情報エントロピー(Shannonエントロピー)で計算したものが順列エントロピーである．さらに定量的に様々な時系列を比較するために正規化を行ったものを順列エントロピーと定義する．その式を下記に示す．
+\begin{equation}
+H_p=\dfrac{-\displaystyle\sum_{i=1}^{D!} p(\pi_i) \log_2 p(\pi_i)}{\log_2 D!}
+\end{equation}
+\\
+
+\item 相互情報量\\%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+　2つの情報源$X,Y$からそれぞれから情報$x,y$を得られる確率を$P_X(x),P_Y(y)$とし，同時に得られる確率を$P_{X,Y}(x,y)$とすると
+\\
 
 
-\item 相互情報量\\
-
-\item 複雑ネットワーク\\
+\item 複雑ネットワーク\\%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+私は
+\\
 
 \end{itemize}
 
@@ -176,6 +196,12 @@ x_{n+1}=ax_{n}(1-x_{n})
 %\label{fig:PE1}%fig図ｔｂ表
 %\end{figure}
 
+%\begin{eqnarray}
+%\left\{%%{を作る
+%\begin{array}{l}%l,llでは、lのときすべて{}の中の式のとき、{}の中にないものがあるならこっち
+%\end{array}
+%\right.
+%\end{eqnarray} 
 
 
 \begin{thebibliography}{9999}%参考文献
@@ -183,11 +209,12 @@ x_{n+1}=ax_{n}(1-x_{n})
 ローレンツ方程式，\url{http://www.isc.meiji.ac.jp/~random/lecture/2015-comp2/Lorentz_equ.html}
 \bibitem{re}
 カオス・フラクタル\ 講義ノート\ \#8，\url{https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-08.pdf}
-\bibitem{lo}%参考文献citeするぞ
-ローレンツ方程式，\url{http://www.isc.meiji.ac.jp/~random/lecture/2015-comp2/Lorentz_equ.html}
-\bibitem{re}
-カオス・フラクタル\ 講義ノート\ \#8，\url{https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/ChaosFractal-2011-Note-08.pdf}
-
+\bibitem{wgn}%参考文献citeするぞ
+ホワイトガウスノイズサンプルの生成-MATLAD wgn，\url{https://jp.mathworks.com/help/comm/ref/wgn.html}
+\bibitem{logi}
+ロジスティック写像の時系列 - 工学院大学，\url{https://brain.cc.kogakuin.ac.jp/~kanamaru/Chaos/Logits/}
+\bibitem{mutural}
+情報量とエントロピー - 導出と性質,\url{https://whyitsso.net/math/statistics/information_entropy.html}
 \end{thebibliography}
 
 %\newpage

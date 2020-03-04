@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.2.26)  2 MAR 2020 15:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.2.26)  4 MAR 2020 14:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -741,10 +741,14 @@ LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 104.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 104.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 104.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 107.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 111.
-<../figures/Logistic_result.jpg, id=119, 562.1pt x 421.575pt>
+<../figures/Logistic_result.jpg, id=121, 562.1pt x 421.575pt>
 File: ../figures/Logistic_result.jpg Graphic file (type jpg)
 <use ../figures/Logistic_result.jpg>
 Package pdftex.def Info: ../figures/Logistic_result.jpg  used on input line 115
@@ -754,52 +758,86 @@ Package pdftex.def Info: ../figures/Logistic_result.jpg  used on input line 115
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
 (Font)              scaled to size 9.24713pt on input line 122.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 125.
+(Font)              scaled to size 9.24713pt on input line 123.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 123.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 123.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 123.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 123.
+Class bxjsarticle Info: Old font command '\bf' is used!!
+(bxjsarticle)           The first occurrence is on input line 123.
+Class bxjsarticle Info: Old font command '\sl' is used!!
+(bxjsarticle)           The first occurrence is on input line 123.
+
+
+LaTeX Font Warning: Command \sl invalid in math mode on input line 123.
+
+
+LaTeX Font Warning: Command \sl invalid in math mode on input line 123.
+
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 134.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 134.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 141.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 132.
+(Font)              scaled to size 9.24713pt on input line 152.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 132.
+(Font)              scaled to size 9.24713pt on input line 152.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 132.
+(Font)              scaled to size 9.24713pt on input line 152.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 132.
-<../figures/kadai2_rusult.jpg, id=140, 562.1pt x 421.575pt>
+(Font)              scaled to size 9.24713pt on input line 152.
+<../figures/kadai2_rusult.jpg, id=149, 562.1pt x 421.575pt>
 File: ../figures/kadai2_rusult.jpg Graphic file (type jpg)
 <use ../figures/kadai2_rusult.jpg>
-Package pdftex.def Info: ../figures/kadai2_rusult.jpg  used on input line 137.
+Package pdftex.def Info: ../figures/kadai2_rusult.jpg  used on input line 157.
 (pdftex.def)             Requested size: 184.9398pt x 138.70204pt.
+[3 <../figures/Logistic_result.jpg>]
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 144.
-<../figures/kadai3_rusult.jpg, id=141, 562.1pt x 421.575pt>
+(Font)              scaled to size 9.24713pt on input line 164.
+<../figures/kadai3_rusult.jpg, id=163, 562.1pt x 421.575pt>
 File: ../figures/kadai3_rusult.jpg Graphic file (type jpg)
 <use ../figures/kadai3_rusult.jpg>
-Package pdftex.def Info: ../figures/kadai3_rusult.jpg  used on input line 149.
+Package pdftex.def Info: ../figures/kadai3_rusult.jpg  used on input line 169.
 (pdftex.def)             Requested size: 184.9398pt x 138.70204pt.
- [3 <../figures/Logistic_result.jpg> <../figures/kadai2_rusult.jpg>]
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 181.
+(Font)              scaled to size 13.31586pt on input line 207.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 181.
+(Font)              scaled to size 13.31586pt on input line 207.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 181.
+(Font)              scaled to size 13.31586pt on input line 207.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 181.
+(Font)              scaled to size 13.31586pt on input line 207.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 185.
+(Font)              scaled to size 9.24713pt on input line 211.
+ [4 <../figures/kadai2_rusult.jpg> <../figures/kadai3_rusult.jpg>]
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 185.
- [4 <../figures/kadai3_rusult.jpg>]
+(Font)              scaled to size 9.24713pt on input line 217.
+ [5]
+
+Class bxjsarticle Warning: Some old font commands were used in text:
+(bxjsarticle)                \bf \sl
+(bxjsarticle)              You should note, that since 1994 LaTeX2e provides a
+(bxjsarticle)              new font selection scheme called NFSS2 with several
+(bxjsarticle)              new, combinable font commands. The class provides
+(bxjsarticle)              the old font commands only for compatibility.
+
 (./spring_test.aux) ) 
 Here is how much of TeX's memory you used:
- 8546 strings out of 480994
- 126313 string characters out of 5914517
- 377543 words of memory out of 5000000
- 23720 multiletter control sequences out of 15000+600000
- 566416 words of font info for 150 fonts, out of 8000000 for 9000
+ 8680 strings out of 480994
+ 128014 string characters out of 5914517
+ 378552 words of memory out of 5000000
+ 23837 multiletter control sequences out of 15000+600000
+ 568622 words of font info for 159 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 48i,6n,46p,870b,557s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 48i,11n,46p,870b,565s stack positions out of 5000i,500n,10000p,500000b,80000s
 {c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ip
-xt1-u7f.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8b.e
+xt1-u8c.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8b.e
 nc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u73.enc}{c:/w3
 2tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u53.enc}{c:/w32tex/shar
 e/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u80.enc}{c:/w32tex/share/texmf-d
@@ -807,131 +845,147 @@ ist/fonts/enc/dvips/ipaex-type1/ipxt1-u56.enc}{c:/w32tex/share/texmf-dist/fonts
 /enc/dvips/ipaex-type1/ipxt1-u88.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvip
 s/ipaex-type1/ipxt1-u5b.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-t
 ype1/ipxt1-u95.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt
-1-u91.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5c.enc
-}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6f.enc}{c:/w32t
-ex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u82.enc}{c:/w32tex/share/
-texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u51.enc}{c:/w32tex/share/texmf-dis
-t/fonts/enc/dvips/ipaex-type1/ipxt1-u57.enc}{c:/w32tex/share/texmf-dist/fonts/e
-nc/dvips/ipaex-type1/ipxt1-u6c.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/
-ipaex-type1/ipxt1-u81.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-typ
-e1/ipxt1-u69.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-
-u54.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u74.enc}{
-c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u72.enc}{c:/w32tex
-/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u62.enc}{c:/w32tex/share/te
-xmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u63.enc}{c:/w32tex/share/texmf-dist/
-fonts/enc/dvips/ipaex-type1/ipxt1-u90.enc}{c:/w32tex/share/texmf-dist/fonts/enc
-/dvips/ipaex-type1/ipxt1-u58.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ip
-aex-type1/ipxt1-u5d.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1
-/ipxt1-u6e.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8
-9.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u71.enc}{c:
-/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5e.enc}{c:/w32tex/s
-hare/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7c.enc}{c:/w32tex/share/texm
-f-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u96.enc}{c:/w32tex/share/texmf-dist/fo
-nts/enc/dvips/ipaex-type1/ipxt1-u4e.enc}{c:/w32tex/share/texmf-dist/fonts/enc/d
-vips/ipaex-type1/ipxt1-u92.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipae
-x-type1/ipxt1-u50.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/i
-pxt1-uff.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u59.
-enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u52.enc}{c:/w
-32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7d.enc}{c:/w32tex/sha
-re/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u97.enc}{c:/w32tex/share/texmf-
-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u76.enc}{c:/w32tex/share/texmf-dist/font
-s/enc/dvips/ipaex-type1/ipxt1-u30.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvi
-ps/ipaex-type1/ipxt1-u5f.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-
-type1/ipxt1-u7a.enc} <c:/w32tex/share/texmf-dist/fonts/pk/ljfour/jknappen/ec/tc
-rm1000.600pk>{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8a.
-enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u66.enc}{c:/w
-32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u60.enc}{c:/w32tex/sha
-re/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u98.enc}{c:/w32tex/share/texmf-
-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u65.enc}{c:/w32tex/share/texmf-dist/font
-s/enc/dvips/ipaex-type1/ipxt1-u77.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvi
-ps/ipaex-type1/ipxt1-u75.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-
-type1/ipxt1-u79.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipx
-t1-u67.enc}<c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pf
-b><c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/w32t
-ex/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/w32tex/share/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/w32tex/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/w32tex/share/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmss10.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmss12.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.
-pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u30.pfb><
-c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4e.pfb><c:/w3
-2tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u50.pfb><c:/w32tex/
-share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u51.pfb><c:/w32tex/share
-/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u52.pfb><c:/w32tex/share/texm
-f-dist/fonts/type1/public/ipaex-type1/ipxg-r-u53.pfb><c:/w32tex/share/texmf-dis
-t/fonts/type1/public/ipaex-type1/ipxg-r-u56.pfb><c:/w32tex/share/texmf-dist/fon
-ts/type1/public/ipaex-type1/ipxg-r-u58.pfb><c:/w32tex/share/texmf-dist/fonts/ty
-pe1/public/ipaex-type1/ipxg-r-u5b.pfb><c:/w32tex/share/texmf-dist/fonts/type1/p
-ublic/ipaex-type1/ipxg-r-u5f.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public
-/ipaex-type1/ipxg-r-u60.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipae
-x-type1/ipxg-r-u65.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-typ
-e1/ipxg-r-u66.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ip
-xg-r-u73.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-
-u76.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7a.p
-fb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7c.pfb><c
-:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u80.pfb><c:/w32
-tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u88.pfb><c:/w32tex/s
-hare/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u89.pfb><c:/w32tex/share/
-texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u8a.pfb><c:/w32tex/share/texmf
--dist/fonts/type1/public/ipaex-type1/ipxg-r-u91.pfb><c:/w32tex/share/texmf-dist
-/fonts/type1/public/ipaex-type1/ipxg-r-u95.pfb><c:/w32tex/share/texmf-dist/font
-s/type1/public/ipaex-type1/ipxg-r-u96.pfb><c:/w32tex/share/texmf-dist/fonts/typ
-e1/public/ipaex-type1/ipxg-r-u98.pfb><c:/w32tex/share/texmf-dist/fonts/type1/pu
-blic/ipaex-type1/ipxg-r-uff.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/
-ipaex-type1/ipxm-r-u30.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex
--type1/ipxm-r-u4e.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type
-1/ipxm-r-u50.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipx
-m-r-u51.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u
-52.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u53.pf
-b><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u54.pfb><c:
-/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u56.pfb><c:/w32t
-ex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u57.pfb><c:/w32tex/sh
-are/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u58.pfb><c:/w32tex/share/t
-exmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u59.pfb><c:/w32tex/share/texmf-
-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5b.pfb><c:/w32tex/share/texmf-dist/
-fonts/type1/public/ipaex-type1/ipxm-r-u5c.pfb><c:/w32tex/share/texmf-dist/fonts
-/type1/public/ipaex-type1/ipxm-r-u5d.pfb><c:/w32tex/share/texmf-dist/fonts/type
-1/public/ipaex-type1/ipxm-r-u5e.pfb><c:/w32tex/share/texmf-dist/fonts/type1/pub
-lic/ipaex-type1/ipxm-r-u5f.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/i
-paex-type1/ipxm-r-u60.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-
-type1/ipxm-r-u62.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1
-/ipxm-r-u63.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm
--r-u65.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6
-6.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u67.pfb
-><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u69.pfb><c:/
-w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6c.pfb><c:/w32te
-x/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6e.pfb><c:/w32tex/sha
-re/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6f.pfb><c:/w32tex/share/te
-xmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u71.pfb><c:/w32tex/share/texmf-d
-ist/fonts/type1/public/ipaex-type1/ipxm-r-u72.pfb><c:/w32tex/share/texmf-dist/f
-onts/type1/public/ipaex-type1/ipxm-r-u73.pfb><c:/w32tex/share/texmf-dist/fonts/
-type1/public/ipaex-type1/ipxm-r-u74.pfb><c:/w32tex/share/texmf-dist/fonts/type1
-/public/ipaex-type1/ipxm-r-u75.pfb><c:/w32tex/share/texmf-dist/fonts/type1/publ
-ic/ipaex-type1/ipxm-r-u76.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ip
-aex-type1/ipxm-r-u77.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-t
-ype1/ipxm-r-u79.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/
-ipxm-r-u7a.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-
-r-u7c.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7d
-.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7f.pfb>
-<c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u80.pfb><c:/w
-32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u81.pfb><c:/w32tex
-/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u82.pfb><c:/w32tex/shar
-e/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u88.pfb><c:/w32tex/share/tex
-mf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u89.pfb><c:/w32tex/share/texmf-di
-st/fonts/type1/public/ipaex-type1/ipxm-r-u8a.pfb><c:/w32tex/share/texmf-dist/fo
-nts/type1/public/ipaex-type1/ipxm-r-u8b.pfb><c:/w32tex/share/texmf-dist/fonts/t
-ype1/public/ipaex-type1/ipxm-r-u90.pfb><c:/w32tex/share/texmf-dist/fonts/type1/
-public/ipaex-type1/ipxm-r-u91.pfb><c:/w32tex/share/texmf-dist/fonts/type1/publi
-c/ipaex-type1/ipxm-r-u92.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipa
-ex-type1/ipxm-r-u96.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-ty
-pe1/ipxm-r-u97.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/i
-pxm-r-u98.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r
--uff.pfb>
-Output written on spring_test.pdf (4 pages, 665351 bytes).
+1-u78.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7f.enc
+}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7b.enc}{c:/w32t
+ex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8f.enc}{c:/w32tex/share/
+texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6b.enc}{c:/w32tex/share/texmf-dis
+t/fonts/enc/dvips/ipaex-type1/ipxt1-u6a.enc}{c:/w32tex/share/texmf-dist/fonts/e
+nc/dvips/ipaex-type1/ipxt1-u91.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/
+ipaex-type1/ipxt1-u5c.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-typ
+e1/ipxt1-u6f.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-
+u4f.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u82.enc}{
+c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u51.enc}{c:/w32tex
+/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u57.enc}{c:/w32tex/share/te
+xmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6c.enc}{c:/w32tex/share/texmf-dist/
+fonts/enc/dvips/ipaex-type1/ipxt1-u81.enc}{c:/w32tex/share/texmf-dist/fonts/enc
+/dvips/ipaex-type1/ipxt1-u69.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ip
+aex-type1/ipxt1-u54.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1
+/ipxt1-u74.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7
+2.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u62.enc}{c:
+/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u63.enc}{c:/w32tex/s
+hare/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u90.enc}{c:/w32tex/share/texm
+f-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u58.enc}{c:/w32tex/share/texmf-dist/fo
+nts/enc/dvips/ipaex-type1/ipxt1-u5d.enc}{c:/w32tex/share/texmf-dist/fonts/enc/d
+vips/ipaex-type1/ipxt1-u6e.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipae
+x-type1/ipxt1-u89.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/i
+pxt1-u71.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5e.
+enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7c.enc}{c:/w
+32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u96.enc}{c:/w32tex/sha
+re/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u4e.enc}{c:/w32tex/share/texmf-
+dist/fonts/enc/dvips/ipaex-type1/ipxt1-u92.enc}{c:/w32tex/share/texmf-dist/font
+s/enc/dvips/ipaex-type1/ipxt1-u50.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvi
+ps/ipaex-type1/ipxt1-uff.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-
+type1/ipxt1-u59.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipx
+t1-u52.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7d.en
+c}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u97.enc}{c:/w32
+tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u76.enc}{c:/w32tex/share
+/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u30.enc}{c:/w32tex/share/texmf-di
+st/fonts/enc/dvips/ipaex-type1/ipxt1-u5f.enc}{c:/w32tex/share/texmf-dist/fonts/
+enc/dvips/ipaex-type1/ipxt1-u7a.enc} <c:/w32tex/share/texmf-dist/fonts/pk/ljfou
+r/jknappen/ec/tcrm1000.600pk>{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-
+type1/ipxt1-u8a.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipx
+t1-u66.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u60.en
+c}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u98.enc}{c:/w32
+tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u65.enc}{c:/w32tex/share
+/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u77.enc}{c:/w32tex/share/texmf-di
+st/fonts/enc/dvips/ipaex-type1/ipxt1-u75.enc}{c:/w32tex/share/texmf-dist/fonts/
+enc/dvips/ipaex-type1/ipxt1-u79.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips
+/ipaex-type1/ipxt1-u67.enc}<c:/w32tex/share/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/w32tex
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/w32tex/share/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/w32tex/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr7.pfb><c:/w32tex/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmss10.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmss12.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+><c:/w32tex/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/w32t
+ex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u30.pfb><c:/w32tex/sh
+are/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4e.pfb><c:/w32tex/share/t
+exmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u50.pfb><c:/w32tex/share/texmf-
+dist/fonts/type1/public/ipaex-type1/ipxg-r-u51.pfb><c:/w32tex/share/texmf-dist/
+fonts/type1/public/ipaex-type1/ipxg-r-u52.pfb><c:/w32tex/share/texmf-dist/fonts
+/type1/public/ipaex-type1/ipxg-r-u53.pfb><c:/w32tex/share/texmf-dist/fonts/type
+1/public/ipaex-type1/ipxg-r-u56.pfb><c:/w32tex/share/texmf-dist/fonts/type1/pub
+lic/ipaex-type1/ipxg-r-u58.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/i
+paex-type1/ipxg-r-u5b.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-
+type1/ipxg-r-u5f.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1
+/ipxg-r-u60.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg
+-r-u65.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6
+6.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u73.pfb
+><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u76.pfb><c:/
+w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7a.pfb><c:/w32te
+x/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7c.pfb><c:/w32tex/sha
+re/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u80.pfb><c:/w32tex/share/te
+xmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u88.pfb><c:/w32tex/share/texmf-d
+ist/fonts/type1/public/ipaex-type1/ipxg-r-u89.pfb><c:/w32tex/share/texmf-dist/f
+onts/type1/public/ipaex-type1/ipxg-r-u8a.pfb><c:/w32tex/share/texmf-dist/fonts/
+type1/public/ipaex-type1/ipxg-r-u91.pfb><c:/w32tex/share/texmf-dist/fonts/type1
+/public/ipaex-type1/ipxg-r-u95.pfb><c:/w32tex/share/texmf-dist/fonts/type1/publ
+ic/ipaex-type1/ipxg-r-u96.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ip
+aex-type1/ipxg-r-u98.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-t
+ype1/ipxg-r-uff.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/
+ipxm-r-u30.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-
+r-u4e.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4f
+.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u50.pfb>
+<c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u51.pfb><c:/w
+32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u52.pfb><c:/w32tex
+/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u53.pfb><c:/w32tex/shar
+e/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u54.pfb><c:/w32tex/share/tex
+mf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u56.pfb><c:/w32tex/share/texmf-di
+st/fonts/type1/public/ipaex-type1/ipxm-r-u57.pfb><c:/w32tex/share/texmf-dist/fo
+nts/type1/public/ipaex-type1/ipxm-r-u58.pfb><c:/w32tex/share/texmf-dist/fonts/t
+ype1/public/ipaex-type1/ipxm-r-u59.pfb><c:/w32tex/share/texmf-dist/fonts/type1/
+public/ipaex-type1/ipxm-r-u5b.pfb><c:/w32tex/share/texmf-dist/fonts/type1/publi
+c/ipaex-type1/ipxm-r-u5c.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipa
+ex-type1/ipxm-r-u5d.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-ty
+pe1/ipxm-r-u5e.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/i
+pxm-r-u5f.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r
+-u60.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u62.
+pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u63.pfb><
+c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u65.pfb><c:/w3
+2tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u66.pfb><c:/w32tex/
+share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u67.pfb><c:/w32tex/share
+/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u69.pfb><c:/w32tex/share/texm
+f-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6a.pfb><c:/w32tex/share/texmf-dis
+t/fonts/type1/public/ipaex-type1/ipxm-r-u6b.pfb><c:/w32tex/share/texmf-dist/fon
+ts/type1/public/ipaex-type1/ipxm-r-u6c.pfb><c:/w32tex/share/texmf-dist/fonts/ty
+pe1/public/ipaex-type1/ipxm-r-u6e.pfb><c:/w32tex/share/texmf-dist/fonts/type1/p
+ublic/ipaex-type1/ipxm-r-u6f.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public
+/ipaex-type1/ipxm-r-u71.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipae
+x-type1/ipxm-r-u72.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-typ
+e1/ipxm-r-u73.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ip
+xm-r-u74.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-
+u75.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u76.p
+fb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u77.pfb><c
+:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u78.pfb><c:/w32
+tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u79.pfb><c:/w32tex/s
+hare/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7a.pfb><c:/w32tex/share/
+texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7b.pfb><c:/w32tex/share/texmf
+-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7c.pfb><c:/w32tex/share/texmf-dist
+/fonts/type1/public/ipaex-type1/ipxm-r-u7d.pfb><c:/w32tex/share/texmf-dist/font
+s/type1/public/ipaex-type1/ipxm-r-u7f.pfb><c:/w32tex/share/texmf-dist/fonts/typ
+e1/public/ipaex-type1/ipxm-r-u80.pfb><c:/w32tex/share/texmf-dist/fonts/type1/pu
+blic/ipaex-type1/ipxm-r-u81.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/
+ipaex-type1/ipxm-r-u82.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex
+-type1/ipxm-r-u88.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type
+1/ipxm-r-u89.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipx
+m-r-u8a.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u
+8b.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8c.pf
+b><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8f.pfb><c:
+/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u90.pfb><c:/w32t
+ex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u91.pfb><c:/w32tex/sh
+are/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u92.pfb><c:/w32tex/share/t
+exmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u95.pfb><c:/w32tex/share/texmf-
+dist/fonts/type1/public/ipaex-type1/ipxm-r-u96.pfb><c:/w32tex/share/texmf-dist/
+fonts/type1/public/ipaex-type1/ipxm-r-u97.pfb><c:/w32tex/share/texmf-dist/fonts
+/type1/public/ipaex-type1/ipxm-r-u98.pfb><c:/w32tex/share/texmf-dist/fonts/type
+1/public/ipaex-type1/ipxm-r-uff.pfb>
+Output written on spring_test.pdf (5 pages, 749638 bytes).
 PDF statistics:
- 484 PDF objects out of 1000 (max. 8388607)
- 328 compressed objects within 4 object streams
+ 545 PDF objects out of 1000 (max. 8388607)
+ 370 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 238 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 266 words of extra memory for PDF output out of 10000 (max. 10000000)
 
