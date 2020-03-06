@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.2.26)  5 MAR 2020 21:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.2.26)  6 MAR 2020 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -815,39 +815,39 @@ Package pdftex.def Info: ../figures/kadai3_rusult.jpg  used on input line 186.
 <../figures/kadai3_result2.jpg, id=176, 562.1pt x 421.575pt>
 File: ../figures/kadai3_result2.jpg Graphic file (type jpg)
 <use ../figures/kadai3_result2.jpg>
-Package pdftex.def Info: ../figures/kadai3_result2.jpg  used on input line 197.
+Package pdftex.def Info: ../figures/kadai3_result2.jpg  used on input line 198.
 
 (pdftex.def)             Requested size: 184.9398pt x 138.70204pt.
 <../figures/kadai3_result3.jpg, id=177, 562.1pt x 421.575pt>
 File: ../figures/kadai3_result3.jpg Graphic file (type jpg)
 <use ../figures/kadai3_result3.jpg>
-Package pdftex.def Info: ../figures/kadai3_result3.jpg  used on input line 198.
+Package pdftex.def Info: ../figures/kadai3_result3.jpg  used on input line 199.
 
 (pdftex.def)             Requested size: 184.9398pt x 138.70204pt.
 <../figures/kadai3_histo.jpg, id=178, 562.1pt x 421.575pt>
 File: ../figures/kadai3_histo.jpg Graphic file (type jpg)
 <use ../figures/kadai3_histo.jpg>
-Package pdftex.def Info: ../figures/kadai3_histo.jpg  used on input line 208.
+Package pdftex.def Info: ../figures/kadai3_histo.jpg  used on input line 209.
 (pdftex.def)             Requested size: 184.9398pt x 138.70204pt.
 
 [5 <../figures/kadai3_rusult.jpg> <../figures/kadai3_result2.jpg> <../figures/k
 adai3_result3.jpg>]
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 253.
+(Font)              scaled to size 13.31586pt on input line 254.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 253.
+(Font)              scaled to size 13.31586pt on input line 254.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 253.
+(Font)              scaled to size 13.31586pt on input line 254.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 253.
+(Font)              scaled to size 13.31586pt on input line 254.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 257.
+(Font)              scaled to size 9.24713pt on input line 258.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 263.
+(Font)              scaled to size 9.24713pt on input line 264.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 263.
+(Font)              scaled to size 9.24713pt on input line 264.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 263.
+(Font)              scaled to size 9.24713pt on input line 264.
  [6 <../figures/kadai3_histo.jpg>]
 
 Class bxjsarticle Warning: Some old font commands were used in text:
@@ -859,13 +859,13 @@ Class bxjsarticle Warning: Some old font commands were used in text:
 
 (./spring_test.aux) ) 
 Here is how much of TeX's memory you used:
- 8838 strings out of 480994
- 130310 string characters out of 5914517
+ 8844 strings out of 480994
+ 130384 string characters out of 5914517
  380589 words of memory out of 5000000
- 23983 multiletter control sequences out of 15000+600000
+ 23989 multiletter control sequences out of 15000+600000
  570009 words of font info for 164 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 48i,11n,46p,1058b,565s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 48i,11n,46p,887b,565s stack positions out of 5000i,500n,10000p,500000b,80000s
 {c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ip
 xt1-u68.enc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u9a.e
 nc}{c:/w32tex/share/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u61.enc}{c:/w3
@@ -1019,7 +1019,7 @@ r-u92.pfb><c:/w32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u95
 32tex/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u98.pfb><c:/w32tex
 /share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9a.pfb><c:/w32tex/shar
 e/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-uff.pfb>
-Output written on spring_test.pdf (6 pages, 891449 bytes).
+Output written on spring_test.pdf (6 pages, 893293 bytes).
 PDF statistics:
  575 PDF objects out of 1000 (max. 8388607)
  388 compressed objects within 4 object streams
