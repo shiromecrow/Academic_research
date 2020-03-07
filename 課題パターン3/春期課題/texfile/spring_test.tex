@@ -177,6 +177,29 @@ f(x)=a(cx)^k
 \label{fig:kadai2}
 \end{figure}
 
+また，時間遅れの極小値は18となった．このことからアトラクタの構築するために最適な時間遅れは18だと考えられる．$x$軸をMATファイルの時系列データ$f(t)$とし，$y$軸をMATファイルの時系列データ$f(t+\tau)$とし，$z$軸をMATファイルの時系列データ$f(t+2\tau)$としたときのプロットを下記に示す．
+
+\begin{figure}[H]%[h]は記述したところ。[t]はそのページの上端。[t]はそのページの下端、[p]はページいっぱい
+\begin{center}
+\includegraphics[width=.4\textwidth]{kadai2_rusult2.jpg}
+\end{center}
+\caption{最適な時間遅れのアトラクタ}%図名
+\label{fig:kadai22}
+\end{figure}
+
+また，これに対して不適切な時間遅れである$\tau=2,1000$のパターンも下記に示す．
+
+\begin{figure}[H]%[h]は記述したところ。[t]はそのページの上端。[t]はそのページの下端、[p]はページいっぱい
+\begin{center}
+\includegraphics[width=.4\textwidth]{kadai2_rusult3.jpg}
+\includegraphics[width=.4\textwidth]{kadai2_rusult4.jpg}
+\end{center}
+\caption{不適切な時間遅れのアトラクタ(左が$\tau=2$，右が$\tau=1000$)}%図名
+\label{fig:kadai24}
+\end{figure}
+
+
+これは，時間遅れが小さいと時系列と遅れ時系列の相関が高くなり，傾き$45^\circ$の直線近傍のプロットとなってしまう．時間遅れが大きいと無相関となり，不安定な軌道を示してしまう．
 
 \section{\normalsizeホワイトガウスノイズと順列エントロピーに関するMATLABファイル(B4kadai\_2020.m)を実行し，図を出力し考察を加える.}
 まず出力された結果を下記に示す．このときのホワイトガウスノイズの生成数は$10000$個で次元数は$5$，遅れ時間は$1$である．
